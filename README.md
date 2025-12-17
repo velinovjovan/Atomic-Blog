@@ -4,18 +4,7 @@ A simple and modern blog platform built as part of **Jonas Schmedtmann's Ultimat
 
 ---
 
-## 🚀 Features
-
-- ⚡ Optimized with **useMemo**, and **useCallback** for better performance
-- 🧩 Built with **React** using functional components
-- 💡 Demonstrates **lifting state up** and **data flow** between components
-- 🔄 Real-time updates when adding or deleting posts
-- 🧠 Focused on **React performance techniques** — no backend, just pure React logic
-- 🎨 Clean, minimal, and responsive UI
-
----
-
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 - **Frontend:** React (Create React App)
 - **Language:** JavaScript (ES6+)
@@ -23,7 +12,7 @@ A simple and modern blog platform built as part of **Jonas Schmedtmann's Ultimat
 
 ---
 
-## 🧭 How to Run Locally
+## 🧩 Installation
 
 1. Clone the repository:
 
@@ -50,12 +39,3 @@ A simple and modern blog platform built as part of **Jonas Schmedtmann's Ultimat
    ```
 
 ---
-
-## 📚 Learning Objectives
-
-This project was designed to solidify understanding of:
-
-- React **memoization** with `useMemo`, `useCallback`
-- Component architecture and prop optimization
-- Avoiding unnecessary re-renders
-- Conditional rendering and controlled components
